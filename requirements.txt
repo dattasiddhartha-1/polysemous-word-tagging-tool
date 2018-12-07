@@ -1,0 +1,9 @@
+Django
+spacy
+django-cors-headers
+langid
+gensim
+requests
+readability-lxml
+bs4
+pandas

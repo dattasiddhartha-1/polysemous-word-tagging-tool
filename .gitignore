@@ -1,0 +1,15 @@
+*~
+.*.sw[opn]
+*.py[cod]
+*.egg-info
+.DS_Store
+.cache
+__pycache__/
+debug.log
+errorlog.txt
+db.sqlite3
+el_classiffier.bin
+uwsgi.ini
+demo/settings.py
+settings.py
+
