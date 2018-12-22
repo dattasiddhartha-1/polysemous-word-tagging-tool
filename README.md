@@ -13,3 +13,7 @@ Documentation to be updated soon.
 * utils.py performs most of the processing of input text (wordNET, spaCy, nltk, etc)
 * script.js contains connections between utils.py analysis and presentation on the index.html
 * index.html is the webpage layout for presenting the content
+
+### Latest Preview
+
+![alt text](https://raw.githubusercontent.com/dattasiddhartha-1/polysemous-word-tagging-tool/blob/master/screenshot_preview.PNG)
