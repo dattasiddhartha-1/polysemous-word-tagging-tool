@@ -14,6 +14,11 @@ Documentation to be updated soon.
 * script.js contains connections between utils.py analysis and presentation on the index.html
 * index.html is the webpage layout for presenting the content
 
+## Known issues
+* Sense tagging not interactive (click-select)
+* Box dimensions not optimal to different scenarios of text length
+* Not loaded up SemCor examples yet for each sense
+
 ### Latest Preview
 
 ![Screenshot](screenshot_preview.PNG)
