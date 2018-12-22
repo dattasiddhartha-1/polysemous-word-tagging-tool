@@ -16,4 +16,4 @@ Documentation to be updated soon.
 
 ### Latest Preview
 
-![alt text](https://raw.githubusercontent.com/dattasiddhartha-1/polysemous-word-tagging-tool/blob/master/screenshot_preview.PNG)
+![Screenshot](screenshot_preview.PNG)
